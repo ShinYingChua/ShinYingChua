@@ -1,4 +1,4 @@
-<img width="114" alt="Screenshot 2023-10-04 at 5 17 20 PM" src="https://github.com/ShinYingChua/ShinYingChua/assets/101923627/cade5f34-013f-4578-b32f-f41b6c68e99c"># Hi 👋 I am Shin Ying! 
+# Hi 👋 I am Shin Ying! 
 
 ### Languages: <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
