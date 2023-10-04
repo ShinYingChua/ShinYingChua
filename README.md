@@ -1,4 +1,4 @@
-# Hi 👋 I am Shin Ying! 
+<img width="114" alt="Screenshot 2023-10-04 at 5 17 20 PM" src="https://github.com/ShinYingChua/ShinYingChua/assets/101923627/cade5f34-013f-4578-b32f-f41b6c68e99c"># Hi 👋 I am Shin Ying! 
 
 ### Languages: <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -21,6 +21,12 @@
 ### Frameworks & Libraries: <br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Professional Certification:
+<img width="114" alt="Screenshot 2023-10-04 at 5 16 27 PM" src="https://github.com/ShinYingChua/ShinYingChua/assets/101923627/300fc029-3e9c-4153-b0c3-ed5e1db80423">
+<img width="114" alt="Screenshot 2023-10-04 at 5 14 59 PM" src="https://github.com/ShinYingChua/ShinYingChua/assets/101923627/78059c36-b82e-47bb-ab98-d9a902343b29">
+
+
 
 ### Profile Stats:
 ![](https://komarev.com/ghpvc/?username=ShinYingChua&color=blueviolet)
