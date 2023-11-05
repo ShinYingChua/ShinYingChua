@@ -25,6 +25,8 @@
 ### Professional Certification:
 <img width="114" alt="Screenshot 2023-10-04 at 5 16 27 PM" src="https://github.com/ShinYingChua/ShinYingChua/assets/101923627/300fc029-3e9c-4153-b0c3-ed5e1db80423">
 <img width="114" alt="Screenshot 2023-10-04 at 5 14 59 PM" src="https://github.com/ShinYingChua/ShinYingChua/assets/101923627/78059c36-b82e-47bb-ab98-d9a902343b29">
+<img width="114" alt="Screenshot 2023-11-05 at 11 04 16 PM" src="https://github.com/ShinYingChua/ShinYingChua/assets/101923627/26d582cf-e1a1-4d38-bece-d8b403ab2082">
+
 
 
 
